@@ -1,6 +1,6 @@
 # Profile
 
-![Фото](https://github.com/Sava72in/Profile/img/foto.jpg)
+<image src= "img/foto.jpg" alt= "Фото" width= "200" />
 
 - Меня зовут ***Вячеслав*** и мне 30 лет.
 - Работаю в крупной компании ***МТС*** **ведущим инженером**.
